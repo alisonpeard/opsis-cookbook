@@ -2,8 +2,6 @@
 title: Python set-up basics
 layout: default
 ---
-
-[Return to homepage](https://alisonpeard.github.io)
 ## Setting up Python
 ### Conda environments
 When you install Python, it comes with a number of basic functionalities, but most people need to install extra _packages_ for their specific use-case. Packages contain extra functions and
