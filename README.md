@@ -1,4 +1,5 @@
 View website [here](https://alisonpeard.github.io/opsis-cookbook)
+To test locally: `bundle exec jekyll serve`
 
 
 # just-the-docs-template
