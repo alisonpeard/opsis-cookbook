@@ -1,6 +1,20 @@
 View website [here](https://alisonpeard.github.io/opsis-cookbook)
+
+To add new page:
+1. Create a markdown.md file with the following at the top:
+```
+---
+title: Python set-up basics
+layout: default
+---
+```
+2. Write your documentation in markdown as usual.
+3. File will appear on the website within 10 minutes.
+
+
 To test locally: `bundle exec jekyll serve`
 
+---
 
 # just-the-docs-template
 
