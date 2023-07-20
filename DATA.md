@@ -3,10 +3,12 @@ title: Data sources
 layout: default
 ---
 ## How to access MISTRAL...
+[Tom's notes](https://nismod.github.io/presentations/oxford-hpc.html) and [SoGE notes](https://intranet.ouce.ox.ac.uk/it/cs/index.html).
 
 1. CiscoAnyConnect Secure Mobility Client
 2. Login using SSO credential, e.g., abcd1234@ox.ac.uk
 3. `ssh abcd1234@linux.ouce.ox.ac.uk`, type `yes` and enter password
+4. MISTRAL folder is located `/ouce-home/projects/mistral`
    
 ## Linux cluster password
 If you need to reset password you can do so [here](https://iaas.ouce.ox.ac.uk/auth/login?domain=it.ouce.ox.ac.uk).
