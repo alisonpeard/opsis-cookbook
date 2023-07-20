@@ -9,6 +9,8 @@ layout: default
 2. Login using SSO credential, e.g., abcd1234@ox.ac.uk
 3. `ssh abcd1234@linux.ouce.ox.ac.uk`, type `yes` and enter password
 4. MISTRAL folder is located `/ouce-home/projects/mistral`
+5. Example data transfer:
+   ```scp -r spet5107@linux.ouce.ox.ac.uk:/ouce-home/projects/mistral/incoming_data/deltares-2021-global-coastal-flooding /Users/alison/Documents/DPhil/data/deltares-floodhazard```
    
 ## Linux cluster password
 If you need to reset password you can do so [here](https://iaas.ouce.ox.ac.uk/auth/login?domain=it.ouce.ox.ac.uk).
